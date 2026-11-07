@@ -1,0 +1,7 @@
+存入数量=int(input("你要放几个："))
+                背包.update({存入名称: 背包.get(存入名称, 0) + 存入数量})
+                for 名字, 数量 in 背包.items():
+                    print(f"{名字}:{数量}");print("")
+                break
+            except ValueError:
+                print("请输入数字！")
