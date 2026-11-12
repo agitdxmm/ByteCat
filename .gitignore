@@ -2,3 +2,13 @@
 .idea/
 __pycache__/
 *.pyc
+
+# 运行产物（教程代码跑出来的图片，不必提交）
+小喵咪学编程/YCL4冲刺/词云_*.png
+小喵咪学编程/YCL4冲刺/我的词云.png
+
+# 误操作产物 / 大文件，不进版本库
+notepad_hex.txt
+小喵咪学编程/VoiceCraftLauncher.exe
+小喵咪学编程/dir
+小喵咪学编程/explorer
